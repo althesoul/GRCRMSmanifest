@@ -1,0 +1,52 @@
+{
+  "name": "GRC RMS App",
+  "short_name": "RETREAT MANAGEMENT SYSTEM",
+  "theme_color": "#ead7b0",
+  "background_color": "#645e52",
+  "display": "minimal-ui",
+  "Scope": "/",
+  "start_url": "/#!/home",
+  "icons": [
+    {
+      "src": "https://res.cloudinary.com/tadabase/image/upload/v1638784166/client/globalretreatcentre/GRCRMS-Badge_acqfq6.jpg",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://res.cloudinary.com/tadabase/image/upload/v1638784166/client/globalretreatcentre/GRCRMS-Badge_acqfq6.jpg",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://res.cloudinary.com/tadabase/image/upload/v1638784166/client/globalretreatcentre/GRCRMS-Badge_acqfq6.jpg",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "https://res.cloudinary.com/tadabase/image/upload/v1649671325/client/globalretreatcentre/GRC-RMS144_iwudap.jpg",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://ucarecdn.com/768ffa74-cbbd-413a-bcfd-bb9db0a4b932/icon152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "https://res.cloudinary.com/tadabase/image/upload/v1649671352/client/globalretreatcentre/GRC-RMS152_esma1s.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://res.cloudinary.com/tadabase/image/upload/v1649671396/client/globalretreatcentre/GRC-RMS384_vfuvf0.jpg",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "https://res.cloudinary.com/tadabase/image/upload/v1649671419/client/globalretreatcentre/GRC-RMS512_s637re.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+
