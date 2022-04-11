@@ -4,7 +4,7 @@
   "theme_color": "#ead7b0",
   "background_color": "#645e52",
   "display": "minimal-ui",
-  "Scope": "/",
+  "Scope": "https://bkuk.tadabase.io/grcrms#!/home",
   "start_url": "https://bkuk.tadabase.io/grcrms#!/home",
   "icons": [
     {
