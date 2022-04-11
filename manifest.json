@@ -5,20 +5,20 @@
   "background_color": "#645e52",
   "display": "minimal-ui",
   "Scope": "/",
-  "start_url": "/#!/home",
+  "start_url": "https://bkuk.tadabase.io/grcrms#!/home",
   "icons": [
     {
-      "src": "https://res.cloudinary.com/tadabase/image/upload/v1638784166/client/globalretreatcentre/GRCRMS-Badge_acqfq6.jpg",
+      "src": "https://res.cloudinary.com/tadabase/image/upload/v1649672634/client/globalretreatcentre/GRC-RMS72_bpnfus.jpg",
       "sizes": "72x72",
       "type": "image/png"
     },
     {
-      "src": "https://res.cloudinary.com/tadabase/image/upload/v1638784166/client/globalretreatcentre/GRCRMS-Badge_acqfq6.jpg",
+      "src": "https://res.cloudinary.com/tadabase/image/upload/v1649672651/client/globalretreatcentre/GRC-RMS96_uioj0i.jpg",
       "sizes": "96x96",
       "type": "image/png"
     },
     {
-      "src": "https://res.cloudinary.com/tadabase/image/upload/v1638784166/client/globalretreatcentre/GRCRMS-Badge_acqfq6.jpg",
+      "src": "https://res.cloudinary.com/tadabase/image/upload/v1649672670/client/globalretreatcentre/GRC-RMS128_j5624q.jpg",
       "sizes": "128x128",
       "type": "image/png"
     },
@@ -28,12 +28,12 @@
       "type": "image/png"
     },
     {
-      "src": "https://ucarecdn.com/768ffa74-cbbd-413a-bcfd-bb9db0a4b932/icon152x152.png",
+      "src": "https://res.cloudinary.com/tadabase/image/upload/v1649671352/client/globalretreatcentre/GRC-RMS152_esma1s.jpg",
       "sizes": "152x152",
       "type": "image/png"
     },
     {
-      "src": "https://res.cloudinary.com/tadabase/image/upload/v1649671352/client/globalretreatcentre/GRC-RMS152_esma1s.jpg",
+      "src": "https://res.cloudinary.com/tadabase/image/upload/v1649671371/client/globalretreatcentre/GRC-RMS192_kv6d3v.jpg",
       "sizes": "192x192",
       "type": "image/png"
     },
