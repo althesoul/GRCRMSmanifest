@@ -8,42 +8,42 @@
   "start_url": "https://bkuk.tadabase.io/grcrms#!/home",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/althesoul/GRCRMSmanifest/main/GRC-team-app72.jpg",
+      "src": "https://raw.githubusercontent.com/althesoul/GRCRMSmanifest/main/GRC-team-app72.gif",
       "sizes": "72x72",
       "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/althesoul/GRCRMSmanifest/main/GRC-team-app96.jpg",
+      "src": "https://raw.githubusercontent.com/althesoul/GRCRMSmanifest/main/GRC-team-app96.gif",
       "sizes": "96x96",
       "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/althesoul/GRCRMSmanifest/main/GRC-team-app128.jpg",
+      "src": "https://raw.githubusercontent.com/althesoul/GRCRMSmanifest/main/GRC-team-app128.gif",
       "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/althesoul/GRCRMSmanifest/main/GRC-team-app144.jpg",
+      "src": "https://raw.githubusercontent.com/althesoul/GRCRMSmanifest/main/GRC-team-app144.gif",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/althesoul/GRCRMSmanifest/main/GRC-team-app152.jpg",
+      "src": "https://raw.githubusercontent.com/althesoul/GRCRMSmanifest/main/GRC-team-app152.gif",
       "sizes": "152x152",
       "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/althesoul/GRCRMSmanifest/main/GRC-team-app192.jpg",
+      "src": "https://raw.githubusercontent.com/althesoul/GRCRMSmanifest/main/GRC-team-app192.gif",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/althesoul/GRCRMSmanifest/main/GRC-team-app384.jpg",
+      "src": "https://raw.githubusercontent.com/althesoul/GRCRMSmanifest/main/GRC-team-app384.gif",
       "sizes": "384x384",
       "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/althesoul/GRCRMSmanifest/main/GRC-team-app512.jpg",
+      "src": "https://raw.githubusercontent.com/althesoul/GRCRMSmanifest/main/GRC-team-app512.gif",
       "sizes": "512x512",
       "type": "image/png"
     }
